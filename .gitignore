@@ -1,0 +1,12 @@
+# 忽略清理完的Data
+rawData/entity_table_motor.csv
+rawData/pos_table_motor.csv
+rawData/sentence_table_motor.csv
+rawData/SourceHanSansTW-Regular.otf
+
+dict
+pic
+
+data
+data.zip
+TaipeiSansTCBeta-Regular.ttf
