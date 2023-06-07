@@ -1,12 +1,21 @@
 # 忽略清理完的Data
-rawData/entity_table_motor.csv
-rawData/pos_table_motor.csv
-rawData/sentence_table_motor.csv
-rawData/SourceHanSansTW-Regular.otf
+project I/rawData/entity_table_motor.csv
+project I/rawData/pos_table_motor.csv
+project I/rawData/sentence_table_motor.csv
+project I/rawData/SourceHanSansTW-Regular.otf
 
-dict
-pic
+project I/dict
+project I/pic
 
-data
-data.zip
+project I/data
 TaipeiSansTCBeta-Regular.ttf
+
+project II/rawData/entity_table_motor.csv
+project II/rawData/pos_table_motor.csv
+project II/rawData/sentence_table_motor.csv
+project II/rawData/SourceHanSansTW-Regular.otf
+
+project II/dict
+project II/pic
+
+project II/data
